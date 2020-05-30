@@ -1,0 +1,1 @@
+{'Name': 'Drew', 'Race': 'elf', 'player_class': 'ranger', 'Gender': 'm', 'Strength': 17, 'Dex': 7, 'Constitution': 11, 'Intelligence': 8, 'Wisdom': 14, 'Charistma': 9}

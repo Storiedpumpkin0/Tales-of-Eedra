@@ -1,0 +1,1 @@
+{'Name': 'keebler dobby', 'Race': 'elf', 'player_class': 'ranger', 'Gender': 'm', 'Strength': 7, 'Dex': 19, 'Constitution': 14, 'Intelligence': 12, 'Wisdom': 9, 'Charistma': 17}
