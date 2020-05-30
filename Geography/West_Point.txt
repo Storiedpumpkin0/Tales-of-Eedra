@@ -1,0 +1,53 @@
+=-=-=-=-=- West Point -=-=-=-=-=-
+•	Population: 2000
+•	Races: Humans, Elves, Dwarves
+•	Economics: Magical Items, Frost-steel
+•	Notes: Frost-steel market offers unique metal and weaponry. West Point also contains Solarious School of Magic  
+
+North: crossings
+South: across the water lies Omma Tul
+
+Places of interest:
+
+•	Froststeel Supply Company
+-	Ran by Frozell Icebeard
+-	Suppler of Froststeel goods to lands beyond Eerda 
+
+•	West Point Grand 
+-	Noble housing 
+-	Home to Kretz Mugglewort
+-	Guarded by Knights of the West Point
+
+•	West Point Inn
+-	Ran by Fel Yepper
+
+•	Magic Market
+-	Tended by Jeroj Quazell
+-	Offers a variety of magical items 
+
+
+People of interest: 
+•	Frozell Icebeard
+-	Dwarf male
+-	90 years 
+-	Lawful good
+-	Owner of the Froststeel supply company 
+
+•	Kretz Mugglewort
+-	Human Noble male 
+-	37 years
+-	Short, mean, selfish, but a gallant warrior
+-	True Neutral 
+
+•	Knights of the West Point
+-	Knight order serving the Mugglewort family 
+-	Made up of 50 elite knights all well armored and trained by Kretz himself 
+
+•	Fel Yepper
+-	Human, Female 
+-	30 years
+-	Onwer of the West Point Inn
+-	A former Mugglewort who renounced the family name 
+-	(Kretz sister) 
+-	Neutral good 
+-	

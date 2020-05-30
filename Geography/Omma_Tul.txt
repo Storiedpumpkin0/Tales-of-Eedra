@@ -1,0 +1,60 @@
+=-=-=-=-= Omma Tul =-=-=-=-=
+•	Population: 2000
+•	Races: Humans, Dwarves
+•	Economics: Trade, Dwarven metal, Bank
+
+North: across the water lies West Point 
+Northeast: Southbridge town 
+Southwest: Ironpick hall
+South: Dragonwood mountains
+
+Places of interest: 
+
+•	Cup-o-ale inn
+-	Ran by Bristlebeard Red
+-	A Dwarven inn made from thick stone 
+-	Welcome to everyone, but free to Dwarven folk 
+
+•	Blades and Bash weapon shop 
+-	Ironpick weapon distributor 
+-	Ran by Beorg Red  
+-	Provider of sturdy and heavy weaponry 
+
+•	Methril bank 
+-	Ran by Rothmel Red 
+-	Where Methril ingots are stored 
+-	Large target for robbers or anyone looking to get rich 
+-	Lots of security: Dwarven centuries, Gnome constructs, Deep elf magic
+-	Ownned by a Copper Dragon – Glendel Druzil 
+
+•	Omma Tul Forge 
+-	Known for making weapons that are surprisingly heavy hitting, but also quite heavy to hold 
+-	Alsk know for making the strongest armor on the map, but also the heaviest. Only the strongest of humans can use the weapons and armor from Omma Tul, However, any dwarf can use them with no problems. 
+People of interest: 
+•	Bristlebeard Red 
+-	Dwarf, Male 
+-	100 years 
+-	Owner of the cup-o-ale inn 
+-	Iron dwarf 
+-	Lawful good
+
+•	Beorg Red
+-	Dwarf Male 
+-	100 years old (Bristlebeards twin brother)
+-	Owner of the weapon shop 
+-	Iron dwarf 
+-	Lawful good
+
+•	Rothmel Red
+-	Dwarf Male
+-	200 years
+-	Manager of the Methril bank 
+-	Friends with Glendel Druzil
+-	Neutral good 
+
+•	Glendel Druzil
+-	DRAGON Male (disguised as a Ironpick dwarf)
+-	 2000 years old
+-	Friends with Rothmel Red 
+-	True Neutral 
+

@@ -1,0 +1,30 @@
+Northbridge town 
+
+•	Population: 100 
+•	Races: Humans, Dwarves, Gnomes 
+•	Known for: Makers market 
+
+South: Southbridge town 
+West: Midpoint 
+
+Places of interest: 
+•	Makers Market 
+-	A place where gnome inventers can sell their inventions 
+-	(the only place where travelers can get crossbows and explosive bolts/arrows and oil-flame blades) 
+-	Ran by Aften Skinchin 
+
+•	Northbridge Makers Factory 
+-	Supplies goods for the makers market 
+-	Ran by Gnomes from the Frooglue Skinchin
+
+People of interest: 
+•	Aften Skinchin
+-	Gnome, male 
+-	90 years 
+-	Son of Frooglue Skinchin 
+
+•	Frooglue Skinchin 
+-	Owner of Makers market 
+-	Inventor of flame-oil 
+
+

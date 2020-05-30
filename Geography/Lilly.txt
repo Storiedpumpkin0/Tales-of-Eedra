@@ -1,0 +1,61 @@
+=-=-=-=- Lilly =-=-=-=-=-=-=
+•	Population: 300
+•	Races: Humans, Dwarves
+•	Economics: Bronzebeard goods
+•	Known for: The Outpost and frequent orc and troll attacks. 
+•	Notes: Because Lilly is always under pressure by orc raiders or troll attack, the citizens have learned to be tough and skeptical of newcomers.   
+
+
+North: Serya Cave 
+South lies Serya Swamp 
+North lies Bronsebeard Hall
+
+Places of interest: 
+•	Bronzebeard Hall Market
+-	Ran by Mor Danair
+-	Sells goods produced in Bronzebeard hall like: weapons, armor, jewelry, and raw metal
+
+•	Clock tower 
+-	Made by the gnomes of Northbridge town
+
+•	Knowing ones Recruiters 
+-	Brother Lilly
+
+•	West Guard Towers 
+-	facing the mountains, equipped with heavy longbow men to watch for attackers from above 
+
+•	North Guard Towers
+-	Facing north, usually the least manned guard post for the city 
+
+•	South Guard towers 
+-	Equipped with many swordsman from the longhouse 
+-	Watches over the farm fields 
+
+•	Swordsman’s longhouse
+-	Fighters guild keeping watch over the city
+-	Ran by General Orthan 
+
+People of interest: 
+•	Mor Danair
+-	Dwarf Male 
+-	125
+-	Lawful good 
+-	Operates the Bronzebeard Hall Market 
+
+•	Brother Lilly
+-	“Human”, male 
+-	30
+-	Encourages people to seek the knowing ones library
+
+•	 General Orthan
+-	Human Male
+-	50
+-	Lawful Good 
+-	Oversees the Swordsman’s Longhouse
+-	Trains new soldiers
+-	Serious “old man strength” 
+
+
+
+
+
