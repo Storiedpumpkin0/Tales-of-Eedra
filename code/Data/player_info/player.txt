@@ -1,0 +1,1 @@
+{'Name': 'Rethenor', 'Race': 'elf', 'player_class': 'ranger', 'Gender': 'm', 'Strength': 6, 'Dex': 11, 'Constitution': 8, 'Intelligence': 13, 'Wisdom': 5, 'Charistma': 17}

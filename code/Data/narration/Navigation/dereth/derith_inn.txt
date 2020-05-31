@@ -1,0 +1,25 @@
+
+You enter Derith inn 
+
+Behind the counter is a beautiful woman 
+With long brown hair 
+
+As you enter, she greets you: 
+
+---
+
+Hello traveler, your new in town! 
+
+	My name is Felina, 
+		and this is my Inn
+
+	I am sorry,
+ 	but we are all booked up at the moment
+
+	We have no more rooms to rent. 
+
+Thank you for stopping by! 
+
+---
+
+You exit the Inn. 

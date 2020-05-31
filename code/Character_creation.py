@@ -30,10 +30,10 @@ def make_player():
         print(welcome.read())
 
     # Player chooses a race If the race is not found in the list Playable_Races, they must choose again
-    race = input("From what race are you?\n").lower()
-    while race not in Playable_Races:
-        print( "I am sorry, I diddnt catch that, please choose one of the following: \n", Playable_Races )
-        race = input("From what race are you?\n").lower()
+    race = input("From what race are you? (for help type help)\n").lower()
+    while race.lower() not in Playable_Races:
+        print( "Please choose one of the following: \n", Playable_Races )
+        race = input("From what race are you? \n").lower()
     print("\n Great! so you are a ", race, "\n")
 
     # Choose Gender and reject invalid input
@@ -43,9 +43,9 @@ def make_player():
         gender = input("\nWhat is your gender? (M or F)\n")
 
     # Prompt player to choose class:
-    player_class = input("\nWhat is your class?\n").lower()
+    player_class = input("\nWhat is your class? (for help type help)\n").lower()
     while player_class not in Playable_Classes:
-        print("I am sorry, I do not know what ", player_class, " is. Please choose from the following: \n", Playable_Classes)
+        print("Please choose from the following: \n", Playable_Classes)
         player_class = input("\nNow, what is your class?\n")
 
     # Decide stats
@@ -135,7 +135,7 @@ def make_player():
     }
 
     # save the plater info as a dictionary in the player info folder
-    Newfile = player_info_file_path + player_name  + ".txt"
+    Newfile = player_info_file_path + "player.txt"
     with open (Newfile, 'w') as file:
         file.write(str(player_info_dict))
 

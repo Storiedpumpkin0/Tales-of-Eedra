@@ -1,0 +1,24 @@
+
+You go North
+
+The beach stretches out before you.
+
+You walk around the gentile curves and rolling sand dunes 
+And feel the warmth of the sun on your right side. 
+
+You think to yourself
+It must be morning
+
+As you walk along you notice what looks like
+A large city on the horizon, away from the beach. 
+
+The beach continues to stretch north 
+
+The water lies still to the west
+
+You can: 
+   enter the CITY 
+   Continue NORTH
+   enter the WATER 
+   
+   
