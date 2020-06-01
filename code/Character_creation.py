@@ -25,9 +25,6 @@ def make_player():
     race = ''
     gender = ''
 
-    # print out the intro text
-    with open (intro_text_file_path,"r") as welcome:
-        print(welcome.read())
 
     # Player chooses a race If the race is not found in the list Playable_Races, they must choose again
     race = input("From what race are you? (for help type help)\n").lower()
@@ -57,6 +54,7 @@ def make_player():
         intel = random.randint(int(min),int(max))
         wis = random.randint(int(min),int(max))
         cha = random.randint(int(min),int(max))
+        hp = con + strength
 
         #adjust stats for race
         if race == 'dwarf':
@@ -85,7 +83,8 @@ def make_player():
                "\nConstitution: ", con,
                "\nIntelligence: ", intel,
                "\nWisdom: ", wis,
-               "\nCharisma: ", cha)
+               "\nCharisma: ", cha,
+               "\nHit points are: ", hp)
 
         # check if the player has rolled too many times
         if rollcount > 1:
@@ -118,7 +117,8 @@ def make_player():
               "\n   Constitution: ", con,
               "\n   Intelligence: ", intel,
               "\n   Wisdom: ", wis,
-              "\n   Charisma: ", cha
+              "\n   Charisma: ", cha,
+              "\nHit points are: ", hp
           )
 
     # put the player info into a dictionary
@@ -131,12 +131,18 @@ def make_player():
                          "Constitution": con,
                          "Intelligence": intel,
                          "Wisdom": wis,
-                        "Charistma": cha
+                        "Charistma": cha,
+                         "Hit Points": hp
     }
 
-    # save the plater info as a dictionary in the player info folder
+    # save the players info as a dictionary in the player info folder
     Newfile = player_info_file_path + "player.txt"
     with open (Newfile, 'w') as file:
+        file.write(str(player_info_dict))
+
+    # save the players original information
+    Newfile = player_info_file_path + "Original_player.txt"
+    with open(Newfile, 'w') as file:
         file.write(str(player_info_dict))
 
     return

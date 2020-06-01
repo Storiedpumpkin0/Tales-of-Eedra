@@ -13,6 +13,7 @@ while True:
 
     if 'water' in response.lower():
         import response1_enter_the_water
+        break
     elif 'swamp' in response.lower():
         print()
     else:

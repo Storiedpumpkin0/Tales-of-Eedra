@@ -51,8 +51,10 @@ response1 = first_travel()
 if response1 == 'water':
     import response1_enter_the_water
 elif response1 == 'north':
-    import response1_north
+    import Derith
 elif response1 == 'path':
     import response1_path
+elif response1 == 'south':
+    import response1_south
 else:
     print("Good choice not entering the water!")
