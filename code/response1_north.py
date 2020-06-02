@@ -13,8 +13,7 @@ while True:
         print('You go north again')
         break
     elif 'city' in response.lower():
-        print('you enter the city')
-        break
+        import Ku_Belenor
     elif 'water' in response.lower():
         print('you enter the water')
         import  response1_enter_the_water

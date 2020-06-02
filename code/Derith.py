@@ -40,7 +40,8 @@ while True:
         tools.read_file(all_knowing_ones_file, 1.5)
 
     elif 'ku belenor' in response.lower():
-        print()
+        print('\n You leave Derith and head north to Ku Belenor')
+        import  Ku_Belenor
 
     elif 'fay' in response.lower():
         print()

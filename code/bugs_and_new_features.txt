@@ -1,0 +1,17 @@
+NEW FEATURES (to work on) 
+
+* Add hit or miss module for monsters 
+
+* flesh out Ku Belenor 
+
+* flesh out Melin Vail 
+
+	
+
+
+
+
+------------------------------------------------
+Known Bugs (to fix)
+
+* Level up module goes twice when called for some reason

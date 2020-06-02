@@ -1,0 +1,1 @@
+{'Name': 'Delzon', 'Race': 'dwarf', 'player_class': 'fighter', 'Gender': 'm', 'Strength': 12, 'Dex': 9, 'Constitution': 10, 'Intelligence': 14, 'Wisdom': 5, 'Charistma': 11, 'Hit Points': 20}

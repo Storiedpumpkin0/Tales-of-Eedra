@@ -24,6 +24,7 @@ def make_player():
     max = 18
     race = ''
     gender = ''
+    speed = 0
 
 
     # Player chooses a race If the race is not found in the list Playable_Races, they must choose again
@@ -60,20 +61,26 @@ def make_player():
         if race == 'dwarf':
             con = con + 2
             cha = cha - 2
+            speed = 20
         elif race == 'elf':
             dex = dex + 2
             con = con - 2
+            speed = 30
         elif race == 'gnome':
             con = con + 2
             strength = strength - 2
+            speed = 20
         elif race == 'half orc':
             strength = strength + 2
             intel = intel - 2
             cha = cha - 2
+            speed = 30
         elif race == 'halfling':
             dex = dex + 2
             strength = strength - 2
+            speed = 20
         else:
+            speed = 30
             print("\n")
 
         #Show player stats
@@ -84,6 +91,7 @@ def make_player():
                "\nIntelligence: ", intel,
                "\nWisdom: ", wis,
                "\nCharisma: ", cha,
+               "\nSpeed is: ", speed,
                "\nHit points are: ", hp)
 
         # check if the player has rolled too many times
@@ -118,6 +126,7 @@ def make_player():
               "\n   Intelligence: ", intel,
               "\n   Wisdom: ", wis,
               "\n   Charisma: ", cha,
+              "\nSpeed is: ", speed,
               "\nHit points are: ", hp
           )
 
@@ -132,7 +141,8 @@ def make_player():
                          "Intelligence": intel,
                          "Wisdom": wis,
                         "Charistma": cha,
-                         "Hit Points": hp
+                         "Hit Points": hp,
+                         "Speed": speed
     }
 
     # save the players info as a dictionary in the player info folder

@@ -1,1 +1,1 @@
-{'Name': 'Troll', 'Strength': 18, 'Dex': 13, 'Constitution': 20, 'Intelligence': 7, 'Wisdom': 9, 'Charistma': 7, 'Hit Points': -7}
+{'Name': 'Troll', 'Strength': 18, 'Dex': 13, 'Constitution': 20, 'Intelligence': 7, 'Wisdom': 9, 'Charistma': 7, 'Hit Points': 0, 'speed': 30}

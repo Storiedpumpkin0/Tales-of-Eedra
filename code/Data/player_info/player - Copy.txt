@@ -1,0 +1,1 @@
+{'Name': 'sally', 'Race': 'elf', 'player_class': 'ranger', 'Gender': 'f', 'Strength': 15, 'Dex': 19, 'Constitution': 16, 'Intelligence': 8, 'Wisdom': 7, 'Charistma': 11, 'Hit Points': 18}
