@@ -1,52 +1,56 @@
 
-you choose to enter the court house. 
-.. 
-as you approach the court house 
-you admire the beautiful old world craftsmanship. 
+	you choose to enter the court house. 
+		 
+	as you approach the court house 
+	you admire the beautiful old world craftsmanship. 
 
-The doors are large and dark, 
-and make a loud creek as they are pushed open.
+	The doors are large and dark, 
+	and make a loud creek as they are pushed open.
 
-Inside you find an empty room with many seats, 
-and one large seat high above the rest
+	Inside you find an empty room with many seats, 
+	and one large seat high above the rest
 
-Sitting in the tallest chair
-is a small old man with long curly white hair.
+	Sitting in the tallest chair
+	is a small old man with long curly white hair.
 
-He looks surprised that you are here. 
+	He looks surprised that you are here. 
 
-He says:
----
-Excuse me
+		He says:
+			---
+			Excuse me
  
-	What are you doing here? 
+				What are you doing here? 
 
-		Do you need legal assistance? 
-
-no?
+			Do you need legal assistance? 
+	
+			no?
   
-	I suppose I should introduce myself. 
+			Well then, why are you here?
+			
+				I suppose I should introduce myself. 
 
-	My name is Kurth Governmore
-and I am the high judge here in Derith. 
+					My name is Kurth Governmore
+				and I am the high judge here in Derith. 
 
-This courthouse is 
-	the primer center for 
-	legal affairs 
-		in all of the land!
+			This courthouse is 
+			the primer center for 
+			legal affairs 
+			in all of the land!
 
-I am sorry, 
-	but unless you are in legal trouble
-	there is nothing in here for you. 
+			I am sorry, 
+				but unless you are in legal trouble
+				there is nothing in here for you. 
 
-Please,
- enjoy our small town! 
+			Please,
+ 			enjoy our small town! 
 
-   and stay away from that man 
-	claiming to be
-		ALL KNOWING 
+			   and stay away from that man 
+			claiming to be
+		
+				ALL KNOWING 
 
- 	Something is not quite right there. . .
+ 					Something is not quite right there. . .
+	
+			---
 
----
-you exit the courthouse 
+	you exit the courthouse 

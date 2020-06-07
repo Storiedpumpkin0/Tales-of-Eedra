@@ -1,5 +1,5 @@
-You can: 
+	You can: 
 
-	Tug on your foot again
-	Ready your weapon
+		Tug on your foot again
+		Ready your weapon
 

@@ -10,22 +10,17 @@
 def make_player():
 
     #import anything that is needed
-    import random
+    import random,time,tools
 
     # Variables and lists
     Playable_Races = ('human', 'halfling', 'gnome', 'half orc', 'dwarf', 'half elf', 'elf')
     Playable_Classes = ('sorcerer', 'wizard', 'bard', 'rogue', 'cleric', 'druid', 'monk', 'ranger', 'fighter', 'paladin', 'barbarian')
     Playable_Genders = ('m', 'f')
     player_info_file_path = 'Data\\player_info\\'
-    intro_text_file_path = 'Data\\narration\\Welcome_to_Eerda.txt'
     reroll = 'y'
     rollcount = 0
-    min = 5
-    max = 18
-    race = ''
-    gender = ''
-    speed = 0
-
+    min = 10
+    max = 20
 
     # Player chooses a race If the race is not found in the list Playable_Races, they must choose again
     race = input("From what race are you? (for help type help)\n").lower()
@@ -40,6 +35,9 @@ def make_player():
         print("I am sorry, please shoose again")
         gender = input("\nWhat is your gender? (M or F)\n")
 
+    # prompt user for name
+    player_name = input("\nWhat is your name?")
+
     # Prompt player to choose class:
     player_class = input("\nWhat is your class? (for help type help)\n").lower()
     while player_class not in Playable_Classes:
@@ -48,13 +46,13 @@ def make_player():
 
     # Decide stats
     while reroll == 'y':
-        # stats decided at random:
-        strength = random.randint(int(min),int(max))
-        dex = random.randint(int(min),int(max))
-        con = random.randint(int(min),int(max))
-        intel = random.randint(int(min),int(max))
-        wis = random.randint(int(min),int(max))
-        cha = random.randint(int(min),int(max))
+        # stats decided at random from min to max
+        strength = random.randint(min,max)
+        dex = random.randint(min,max)
+        con = random.randint(min,max)
+        intel = random.randint(min,max)
+        wis = random.randint(min,max)
+        cha = random.randint(min,max)
         hp = con + strength
 
         #adjust stats for race
@@ -83,16 +81,37 @@ def make_player():
             speed = 30
             print("\n")
 
+        # put the player info into a dictionary
+        player_info_dict = {"Name": player_name,
+                            "Race": race,
+                            "player_class": player_class,
+                            "Gender": gender,
+                            "Strength": strength,
+                            "Dex": dex,
+                            "Constitution": con,
+                            "Intelligence": intel,
+                            "Wisdom": wis,
+                            "Charistma": cha,
+                            "Hit Points": hp,
+                            "Speed": speed
+                            }
+
+        # save the players info as a dictionary in the player info folder
+        Newfile = player_info_file_path + "player.txt"
+        with open(Newfile, 'w') as file:
+           file.write(str(player_info_dict))
+
+        # save the players original information
+        Newfile = player_info_file_path + "Original_player.txt"
+        with open(Newfile, 'w') as file:
+            file.write(str(player_info_dict))
+
         #Show player stats
-        print( "\n\nyour stats are: "
-               "\nstrength: ", strength,
-               "\nDexterity: ", dex,
-               "\nConstitution: ", con,
-               "\nIntelligence: ", intel,
-               "\nWisdom: ", wis,
-               "\nCharisma: ", cha,
-               "\nSpeed is: ", speed,
-               "\nHit points are: ", hp)
+        print( "\n\nyour stats are: ")
+        time.sleep(1)
+        for key in player_info_dict:
+            print(key, player_info_dict[key])
+            time.sleep(.75)
 
         # check if the player has rolled too many times
         if rollcount > 1:
@@ -101,6 +120,7 @@ def make_player():
 
         # Prompt user to reroll if desiresd, note  a player can only roll 3 times
         adjusted_roll_count = rollcount + 1
+        time.sleep(1)
         print("\n\nyou have rolled ", str(adjusted_roll_count), "times already")
         reroll = input("\nIf you dont like your stats, you can re-roll up to two times. would you like to re-roll? (y) ").lower()
         if reroll == 'y' or reroll == 'Y':
@@ -110,49 +130,7 @@ def make_player():
 
     print("\n great, then your stats are set.")
 
-    #prompt user for name
-    player_name = input("\nWhat is your name?")
-
-    # print out final info:
-    print("\n\n\nAlrighty then.\n Here is everything you have told me about yourslef, as I understand it: "
-              "\n\nYour name is: ", player_name,
-              "\nYou are a: ", race,
-              "\nYou are a: ", player_class,
-              "\nYour gender is: ", gender,
-              "\nyour stats are as follows: ",
-              "\n\n   strength: ", strength,
-              "\n   Dexterity: ", dex,
-              "\n   Constitution: ", con,
-              "\n   Intelligence: ", intel,
-              "\n   Wisdom: ", wis,
-              "\n   Charisma: ", cha,
-              "\nSpeed is: ", speed,
-              "\nHit points are: ", hp
-          )
-
-    # put the player info into a dictionary
-    player_info_dict = { "Name": player_name,
-                         "Race": race,
-                         "player_class": player_class,
-                         "Gender": gender,
-                         "Strength": strength,
-                         "Dex": dex,
-                         "Constitution": con,
-                         "Intelligence": intel,
-                         "Wisdom": wis,
-                        "Charistma": cha,
-                         "Hit Points": hp,
-                         "Speed": speed
-    }
-
-    # save the players info as a dictionary in the player info folder
-    Newfile = player_info_file_path + "player.txt"
-    with open (Newfile, 'w') as file:
-        file.write(str(player_info_dict))
-
-    # save the players original information
-    Newfile = player_info_file_path + "Original_player.txt"
-    with open(Newfile, 'w') as file:
-        file.write(str(player_info_dict))
-
     return
+# -----------------------
+# DEBUG
+#make_player()

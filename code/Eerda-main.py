@@ -9,18 +9,16 @@
 #
 #-----------------------------------------------------------------------------------------------------------------------------------------
 # This will allow python to look in my current working directory for modules
-import os
-import sys
-import tools
+import os, sys, tools
 path = os.getcwd()
 sys.path.insert(0,path)
 
 #importing any modules required
-import Character_creation
+import Character_creation, travel
 
 welcome_text = 'Data\\narration\\Welcome_to_Eerda.txt'
-tools.read_file(welcome_text, 2)
+tools.read_file(welcome_text, 1.5)
 
 # load character creation script
 Character_creation.make_player()
-import travel
+travel.first_travel()

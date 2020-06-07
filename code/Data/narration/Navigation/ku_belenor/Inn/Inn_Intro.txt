@@ -1,0 +1,14 @@
+		You enter the Inn 
+	
+		The room is dark and smoky
+		There is music playing from a bard in the corner
+
+		You sit and a man approaches you: 
+
+			--- 
+
+			Welcome to the world famous 
+		Every Man Inn! 
+
+		Me names Terirn, 
+			And I own this place. 

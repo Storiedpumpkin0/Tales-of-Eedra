@@ -1,21 +1,20 @@
-The last thing you see .
-.
-..
-.
+	The last thing you see .
+	.
+	..
+	.
 
-is a faint glimmer
-.
- of sunshine from above
-.
-.
+	is a faint glimmer
+ 	of sunshine from above
 
-as the 
-octopuss beak 
-crashes 
-through 
-your skull. 
+	
 
-...
+		as the 
+		powerful beak 
+		crashes 
+			through 
+				your skull. 
+
+
 
                         ___
                      .-'   `'.
@@ -34,5 +33,6 @@ your skull.
      `--~`   ) )    .-'.'      '.'.  | (
             (/`    ( (`          ) )  '-;
              `      '-;         (-'
-...
-YOU ARE DEAD 
+
+	
+						YOU ARE DEAD 

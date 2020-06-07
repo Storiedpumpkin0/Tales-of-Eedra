@@ -1,11 +1,11 @@
 
-You can: 
+	You can: 
 
-Investigate the burned buildings
-Enter the court house 
-Enter the Inn 
-Enter the theater 
-talk to the man at the ALL KNOWING ONES booth
-Go north to Ku Belenor
-Go north to Fay 
-Go south to Way
+		Investigate the burned buildings
+		Enter the court house 
+		Enter the Inn 
+		Enter the theater 
+		Talk to the man at the ALL KNOWING ONES booth
+		Go north to Ku Belenor
+		Go north to Fay 
+		Go south to Way

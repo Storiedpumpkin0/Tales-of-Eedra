@@ -1,7 +1,8 @@
-Hello and Welcome to Eedra! 
+	
+				Hello and Welcome to Eedra! 
 
-Thank you for stepping into the magical world of Eedra.
+		Thank you for stepping into the magical world of Eedra.
 
-Here you find Adventure, but be warned: Eedra is a wild and untammed place frought with danger of all kinds. 
+		Here you find Adventure, but be warned: Eedra is a wild and untammed place frought with danger of all kinds. 
  
-Please, Tell me about yourself!
+		Please, Tell me about yourself!

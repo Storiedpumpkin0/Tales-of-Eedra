@@ -1,51 +1,54 @@
 
--
-You approach the theater 
 
-The doors are heavy,
-But swing open as soon as you touch them 
+		You approach the theater 
 
-Inside everything is dark 
+		The doors are heavy,
+		But swing open as soon as you touch them 
 
-You enter a short hallway 
+		Inside everything is dark 
 
-The hallway opens into a large round room 
-With many rows of seats 
-And a small stage in the front
+		You enter a short hallway 
 
---- 
-Hello there newcomer! 
---- 
-You hear from behind you 
+		The hallway opens into a large round room 
+		With many rows of seats 
+		And a small stage in the front
 
---- 
+			--- 
+			Hello there newcomer! 
+			--- 
+	
+		You hear from behind you 
+
+			--- 
 			Lost are you? 
 	
 	Or have you decided to trespass into my theater 
 	On purpose? 
 
-Ha Ha Ha, 
-I am only kidding child! 
+			Ha Ha Ha, 
+			I am only kidding child! 
 
-I can see by the dumb look on your face
-That this is just an accident. 
+		I can see by the dumb look on your face
+		That this is just an accident. 
 
 		You need not be afraid. 
 
-	My name is 
-Bright Thestral 
-	And this is my theater! 
+			My name is 
+			
+			Not very important  
+		
+		This is my theater.
 
-However, 
-my troupe is not offering any 
-performances at this time. 
+	However, 
+		my troupe is not offering any 
+		new performances at this time. 
 
-Please, leave us to our practice. 
+		Please, leave us to our practice. 
 
-Oh, and next time
- I may not believe your innocence 
-in barging into our home. 
+		Oh, and next time
+ 	I may not believe that you stubmled in here by mistake
 
---- 
-You leave the theater 
+			--- 
+		
+		You leave the theater 
 

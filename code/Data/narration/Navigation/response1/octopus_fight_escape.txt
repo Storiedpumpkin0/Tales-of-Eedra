@@ -1,37 +1,48 @@
----
-You struggle against the beasts mighty grasp,
+		---
+	You struggle against the beasts mighty grasp,
 
-But there is no way you can overcome 
-The raw strength of the 
-Powerful tentacles
+	But there is no way you can overcome 
+	The raw strength of the 
+	Powerful tentacles
 
-You see the creatures razor sharp beak 
-Coming right for you 
+		You see the creatures razor sharp beak 
+	Coming right for you 
 
-You lunge your head at the last moment, 
-Causing the monster to sink its 
-Terrible maw
- Into one of its own arms 
+	You lunge your head at the last moment, 
+	Causing the monster to sink its 
+	Terrible maw
+	Into one of its own arms 
 
-The beasts grasp fails for just a moment
-Giving you the chance you needed to 
-Escape 
+	The beasts grasp fails for just a moment
+		Giving you the chance you needed to 
+		Escape 
 
-You desperately swim for the shore 
-
-
-
-The monster does not give chase 
+	You desperately swim for the shore 
 
 
-You crawl back onto the beach
-Wet, cold, and out of breath. 
+	The monster does not give chase 
 
-But alive 
----
-YOU ESCAPE THE OCTOPUS 
-DEX + 1 
 
----
+	You crawl back onto the beach
+	Wet, cold, and out of breath. 
+
+	But alive 
+		
+		---
+	YOU ESCAPE THE OCTOPUS 
+	
+	DEX + 1 
+
+	
+		---
+
+	
+	
+	On the shore again, 
+	you can still see the swamp in the distance. 
+
+	The black water is as still as ever. 
+
+	
 
 

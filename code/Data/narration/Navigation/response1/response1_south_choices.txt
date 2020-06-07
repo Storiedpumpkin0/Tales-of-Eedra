@@ -1,5 +1,5 @@
-You can: 
+	You can: 
 
-Enter the swamp 
-Enter the water 
+		Enter the swamp 
+		Enter the water 
 

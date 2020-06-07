@@ -1,25 +1,25 @@
-You enter the swamp
-.
-.
+	You enter the swamp.
 
-All around you is mud. 
-.
-The sun rises higher in the sky
-The air grows hot and sticky 
+		All around you is mud. 
 
-The foul smell of rot hangs everywhere 
+		The sun rises higher in the sky	
+		The air grows hot and sticky 
 
-Your feet make sickening sucking sounds 
-Every time you lift a foot from the muck 
+		The foul smell of rot hangs everywhere 
 
-You grow tired 
-But you continue 
+			Your feet make sickening sucking sounds 
+			Every time you lift a foot from the muck 
 
-Your foot gets stuck in the mud 
-You pull and pull, but your foot will not budge. 
+			You grow tired 
+			But you continue 
 
-The stink of rot grows stronger
-You hear a growl behind you
+				Your foot gets stuck in the mud!
+ 
+			You pull and pull, but your foot will not budge. 
 
-A small troll apears from behind a group of bushes and heads towards you
+			The stink of rot grows stronger
+			
+	You hear a growl behind you
+
+	A small troll apears from behind a group of bushes and heads towards you
 

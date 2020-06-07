@@ -1,34 +1,17 @@
 
-You run and run
+	You run and run
 
-.
-.
-The stench fades, 
-The terrain becomes less muddy 
+	The stench fades, 
+		The terrain becomes less muddy 
 
-Soon you realize you are free of the swamp! 
+		Soon you realize you are free of the swamp! 
 
-you emerge on a large road.
+		you emerge on a large road.
 
-A mysterious figure aproaches. 
+		
 
-They stop in front of you,
-and hold out a small package. 
+	You see a large city on the southern horizon
 
-You take the package 
-and open it slowly
-
-inside is a HEALTH POTION! 
-
-you quickly drain the contents,
-and feel your wounds close almost instantly
-
-you look up to thank the mysterious stranger,
-but they are gone. 
-
-
-You see a large city on the southern horizon 
-
-
-
-
+	There is a sign wich points twords the city which reads: 
+	
+		MELIN VAIL  

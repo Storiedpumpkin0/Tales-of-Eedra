@@ -1,35 +1,39 @@
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-Begin your journey
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-Darkness . . .
+							Begin your journey
 
-Darkness . . .
+						
+	Darkness . . .
 
-	. . .the sound of the waves
+		Darkness . . .
 
-		. . . the salty smell the sea . . .
-
-You awaken to find yourself 
-on the cool sandy beach 
-of some remote part of the world.
-
-You try to think, 
-but you cannot remember what brought you to this place. 
+		
+					. . .the sound of the waves
+	
+					. . . the salty smell the sea . . .
 
 
-The sound of gulls can be heard on the breeze as it brushes your face.
+					You awaken to find yourself 
+					on the cool sandy beach 
+					of some remote part of the world.
 
-A shiver runs down your back, you are cold. 
+					You try to think, 
+					but you cannot remember what brought you to this place. 
 
-Just off the beach there is a vast forest
 
-There is a path which runs east into the trees 
+					The sound of gulls can be heard on the breeze as it brushes your face.
 
-You can: 
-Walk down the path,
-Walk north along the shore, 
-Walk south along the shore, 
-Or enter the water. 
+					A shiver runs down your back, you are cold. 
+
+					Just off the beach there is a vast forest
+
+					There is a path which runs east into the trees 
+
+					You can: 
+						Walk down the path,
+						Walk north along the shore, 
+						Walk south along the shore, 
+						Or enter the water. 
 
  
 

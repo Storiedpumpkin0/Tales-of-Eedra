@@ -1,1 +1,1 @@
-{'Name': 'sally', 'Race': 'elf', 'player_class': 'ranger', 'Gender': 'f', 'Strength': 45, 'Dex': 49, 'Constitution': 46, 'Intelligence': 38, 'Wisdom': 37, 'Charistma': 41, 'Hit Points': 50, 'Speed': 30}
+{'Name': 'Feleon', 'Race': 'dwarf', 'player_class': 'ranger', 'Gender': 'm', 'Strength': 19, 'Dex': 11, 'Constitution': 12, 'Intelligence': 19, 'Wisdom': 20, 'Charistma': 11, 'Hit Points': 29, 'Speed': 20}

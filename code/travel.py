@@ -5,14 +5,13 @@
 # Started on 5/25/2020
 #
 #--------------------------------------------------------------------------------------------------------------------------
-#make the working directory visable to load modules from
 
-import os
-import sys
-import tools
+import os, sys, tools, response1_north, response1_south, response1_enter_the_water, Derith
+#make the working directory visable to load modules from
 path = os.getcwd()
 sys.path.insert(0,path)
 response1 = ''
+read_speed = 1
 
 def first_travel():
     import time
@@ -22,39 +21,27 @@ def first_travel():
     Awakening = 'Awakening.txt'
 
     # Open the awakening file and save the contents
-    tools.read_file(Narration_folder + Awakening, 1.5)
-
+    tools.read_file(Narration_folder + Awakening, read_speed)
 
     # record user response. ask again
     while True:
         response = input("What will you do?")
         if 'north' in response.lower():
-            response = 'north'
+            response1_north.response1_north()
             break
         elif 'south' in response.lower():
-            response = 'south'
+            response1_south.response1_south()
             break
         elif 'path' in response.lower():
-            response =  'path'
+            print("\n You walk down the path.\n")
+            Derith.Derith()
             break
         elif 'water' in response.lower():
-            response = 'water'
+            response1_enter_the_water.enter_the_water()
             break
         else:
             print("I am sorry, I don't understand.\n Do you want to go NORTH, SOUTH, down the PATH, or into the WATER?")
-    return response
-
-# Have the player make their first choice of movement
-response1 = first_travel()
-
-#respond acording to players response
-if response1 == 'water':
-    import response1_enter_the_water
-elif response1 == 'north':
-    import Derith
-elif response1 == 'path':
-    import response1_path
-elif response1 == 'south':
-    import response1_south
-else:
-    print("Good choice not entering the water!")
+    return
+#--------------------------------------------------------------------------------------------------------
+# DEBUG
+#first_travel()

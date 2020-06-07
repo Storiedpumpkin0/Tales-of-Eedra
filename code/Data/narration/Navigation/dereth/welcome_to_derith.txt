@@ -1,39 +1,39 @@
 
-you walk down the path and find yourself in a city 
+	you find yourself in a city 
 
 
-you see an archway which reads
-.
+	you see an archway which reads
 
-WELCOME TO DERITH
 
-.
-This town seems small, 
-with only a few larger buildings. 
+	WELCOME TO DERITH
 
-The air smells fresh, 
-the breeze fills your nostrils.
 
-In this town you see:
+	This town seems small, 
+	with only a few larger buildings. 
 
-Several burned buildings to the east
+	The air smells fresh, 
+	the breeze fills your nostrils.
 
-A large court house to the west
+	In this town you see:
 
-An inn to the south west 
+	Several burned buildings to the east
 
-A small theater near the courthouse. 
+	A large court house to the west
 
-a small booth with a sign that reads:
-   JOIN THE ALL KNOWING ONES
+	An inn to the south west 
 
-There are several roads leading out of the city. 
+	A small theater near the courthouse. 
 
-To the north are two paths: 
-One leading to Ku Belenor 
-One leading to Fay
+	a small booth with a sign that reads:
+		   JOIN THE ALL KNOWING ONES
 
-To the south is a path leading to Way 
+	There are several roads leading out of the city. 
+
+	To the north are two paths: 
+	One leading to Ku Belenor 
+	One leading to Fay
+
+	To the south is a path leading to Way 
 
 
 

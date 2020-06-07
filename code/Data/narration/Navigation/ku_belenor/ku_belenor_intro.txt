@@ -1,50 +1,120 @@
 
  
  
-you approach the city 
+	you approach the city 
 
-As you draw near you see
-a large archway 
-reading
+	As you draw near you see
+	a large archway 
+	reading
 
-	WELCOME TO Ku BELENOR
+		WELCOME TO Ku BELENOR
  
-You attempt to enter the city, 
-but are stopped by the town guard. 
+	You attempt to enter the city, 
+	but are stopped by the town guard. 
 
-He pauses a moment, 
-Looks you up and down
-Then says: 
+	He pauses a moment, 
+	Looks you up and down
+	Then says: 
 
----
-Excuse me, 
-	But I must ask your business. 
+		---
+		Excuse me, 
+		But I must ask your business. 
 
-	Strange things have been happening
-	Folks say
+			Strange things have been happening
+			Folks say
 
-You aren’t for that weird
-	ALL KNOWING ONES 
-Nonsense, 
+		You arent for that weird
+				ALL KNOWING ONES 
+		Nonsense, 
 
-	Are you?
+			Are you?
 
---- 
+		--- 
 
-You make no response
+	You make no response
 
-The guard responds: 
+	The guard responds: 
 
----
-Ahh nevermind that. 
+		---
+		
+		Ahh nevermind that. 
 
-	I can see 
-	you don’t know nothing bout them anwhoo
+		I can see 
+			you dont know nothing bout them anwhoo
 
-Enjoy Ku Belenor! 
+				Enjoy Ku Belenor! 
 
-	Oh, 
-	and be sure to try somethin at the fish markets! 
+			Oh, 
+				and be sure to try somethin at the fish markets! 
+
+		---
+	
+		You enter the city
+
+		You see many people of 
+		all races going about their business 
+
+		Right before the gate 
+		you see a comfortable looking building
+		With a sign that reads: 
+	
+			COME ONE AND ALL 
+			TO THE EVERYMAN INN
+
+
+		Next to the inn are the market districts.
+
+	West of the inn 
+	is the old elvish district. 
+		
+		The buildings there are small 
+		but elegant, 
+		White walls with golden windows 
+		and sparkling rooftops 
+
+
+	Next to the elvish district 
+	are the fish markets. 
+
+		There you can see fish 
+		of every color for sale
+
+		Despite what you have heard
+		 about fish markets, 
+
+			There is no foul smell,
+			The fish all look fresh and delicious,
+
+	
+	In the southeast corner of the town 
+	stands a tall castle. 
+
+		There is a sign out front reading: 
+
+			GOVENORS PALACE
+
+		There are tall walls all around 
+		With a small array of armed guards out front. 
+
+
+	In the northeast corner
+ 	are what look like slums
+		The houses all look 
+		dilapidated and disheveled. 
+		The inhabitants, 
+		all gaunt and dirty 
+
+		
+	Finally you notice a small booth 
+		in-between the palace and the slums
+
+			The booth has a banner which reads: 
+		
+						ALL HAIL THE MIGHTY
+							ALL  	KNOWING   ONEES
+
+
+
 
 
 
