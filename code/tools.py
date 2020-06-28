@@ -92,7 +92,7 @@ def player_level_up():
         player_info = eval(player_contents)
     #get a new dictionary to save the stats to
     player_info = {         "Name": get_player_stat('Name'),
-                           "Race": get_player_stat('Race'),
+                            "Race": get_player_stat('Race'),
                             "player_class": get_player_stat('player_class'),
                             "Gender": get_player_stat('Gender'),
                             "Strength": get_player_stat('Strength') + 1,

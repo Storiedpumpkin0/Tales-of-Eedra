@@ -1,1 +1,1 @@
-{'Name': 'Feleon', 'Race': 'dwarf', 'player_class': 'ranger', 'Gender': 'm', 'Strength': 19, 'Dex': 11, 'Constitution': 12, 'Intelligence': 19, 'Wisdom': 20, 'Charistma': 11, 'Hit Points': 29, 'Speed': 20}
+{'Name': 'rozo', 'Race': 'halfling', 'player_class': 'bard', 'Gender': 'm', 'Strength': 16, 'Dex': 19, 'Constitution': 18, 'Intelligence': 21, 'Wisdom': 15, 'Charistma': 16, 'Hit Points': 34, 'Speed': 20}

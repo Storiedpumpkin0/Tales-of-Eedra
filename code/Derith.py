@@ -47,9 +47,13 @@ def Derith():
             print()
         # if a player choses to go to Wey
         elif 'way' in response.lower():
-            print()
+            print('You', response)
         # if a player does not enter a valid response
         else:
             print('Im sorry, I dont understand what you want.'
                '\n Please choose: BURNED BUILDINGS, COURT, INN, THEATER, ALL KNOWING ONES, KU BELENOR, FEY, WAY')
     return
+
+# -----------------------------------------------------------------------
+# DEBUG
+#Derith()

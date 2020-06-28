@@ -1,0 +1,11 @@
+	You can: 
+	
+		Enter the Inn
+		Inspect the ADVENTURE MARKET 
+		Inspect HOBBLE HILL GOODS 
+	
+		Leave Wey by taking the road to:
+			Derith
+			The east
+
+

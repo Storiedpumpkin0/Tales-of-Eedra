@@ -90,4 +90,4 @@ def Ku_belenor():
         print("\nyou return to the city\n")
 # -------------------------------------------------------------
 # DEBUG
-Ku_belenor()
+#Ku_belenor()

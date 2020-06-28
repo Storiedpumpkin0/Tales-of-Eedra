@@ -1,0 +1,40 @@
+
+
+			You enter the Inn 
+
+
+				The common room is small, but cozy 
+
+				A fire burns in a short hearth 
+
+				You see a cheerful looking Halfling behind a desk
+				in the corner of the room 
+
+					--- 
+
+						Hello Traveler! 
+
+						Welcome to Wey
+
+				We are a small town, but we all do our part
+
+						
+					You can stay if you like
+
+			But Im afraid you wont find much company or conversation here
+
+				
+								We don’t get many visitors 
+
+
+						Enjoy our town! 
+
+
+					--- 
+
+
+				You exit the Inn 
+
+
+
+

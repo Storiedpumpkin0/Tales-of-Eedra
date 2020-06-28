@@ -11,7 +11,7 @@ import os, sys, tools, response1_north, response1_south, response1_enter_the_wat
 path = os.getcwd()
 sys.path.insert(0,path)
 response1 = ''
-read_speed = 1
+read_speed = 1.5
 
 def first_travel():
     import time
